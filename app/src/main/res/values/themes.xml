@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BookLegacy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BookLegacy" parent="Base.Theme.BookLegacy" />
+
+    <style name="Theme.SplashTheme." parent="Theme.AppCompat.NoActionBar">
+
+
+
+    </style>
+</resources>
